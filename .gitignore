@@ -1,0 +1,23 @@
+# Build output
+/build/
+/bin/
+/obj/
+
+# Executables
+*.exe
+*.out
+cpu_scheduler
+scheduler_tests
+
+# IDE/editor files
+.vscode/
+.idea/
+*.code-workspace
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.log
